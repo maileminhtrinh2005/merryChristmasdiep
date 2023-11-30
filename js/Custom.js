@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Chúc Dung (biệt danh Diệp xinh đẹp cute :) ) có một mùa giáng sinh an lành và ấm áp bên người thân và bạn bè :) Nghe nhạc zui zẻ nha!!!",
+                        "GIÁNG SINH AN LÀNH NHÉ NGÂN! Đây là một món quà gửi đến bạn và đi kèm theo đó là một lời chúc...Tớ chúc bạn hạnh phúc , tươi cười trên con đường phía trước. Hãy cười nhiều lên vì trình nghĩ nó là lời cảm ơn chân thành nhất",
                         ],
                         typeSpeed: 250,
                         startDelay: 500,
